@@ -1,1 +1,1 @@
-#Traffic-Control-System
+Traffic Signal Control System using OpenGL
